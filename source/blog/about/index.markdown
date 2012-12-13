@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 ---
-![alt text](/images/3.jpg "")
+![alt text](/images/4.jpg "")
 
 * mang wang
 * HIT.CS.MI&TLAB
